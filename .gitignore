@@ -1,0 +1,7 @@
+.config/
+web/
+dist/
+build/
+*.spec
+__pycache__/
+*.pyc
