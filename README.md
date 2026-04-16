@@ -12,6 +12,7 @@
 - 批量下载 — 同时下载多个网页
 - 路径替换 — 完成后自动替换为本地相对路径，纯离线浏览
 - 系统托盘 — 关闭窗口最小化到托盘
+<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/9f6d7ece-0af5-40fc-8834-a5900b6b562f" />
 
 ## 安装
 
